@@ -11,3 +11,5 @@ An example in how to create a cube on android from scratch using:
 Video example:
 
 [![Watch the video](https://img.youtube.com/vi/JfTEXGKZOFY/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/JfTEXGKZOFY?feature=share)https://youtube.com/shorts/JfTEXGKZOFY?feature=share)
+
+- https://youtube.com/shorts/JfTEXGKZOFY
